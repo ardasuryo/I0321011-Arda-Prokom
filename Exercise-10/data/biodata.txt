@@ -1,0 +1,6 @@
+Nama: Arda
+Umur: 19
+Alamat: angsa
+Nama: arda
+Umur: 30
+Alamat: jl angsa
